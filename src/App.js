@@ -110,7 +110,7 @@ function AboutPage() {
   return (
     <section>
       <h2 className="text-xl font-bold mb-2">Welcome to Tomiye Talks</h2>
-      <p>This is a space for essays, thoughts, and reflections. More coming soon.</p>
+      <p>A place to talk about my life, trying to capture what I find interesting.</p>
     </section>
   );
 }
